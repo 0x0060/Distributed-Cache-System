@@ -1,0 +1,12 @@
+{
+    "name": "advanced-cache",
+    "version": "1.0.0",
+    "dependencies": [
+      "nlohmann-json",
+      "protobuf",
+      {
+        "name": "boost",
+        "features": ["thread"]
+      }
+    ]
+  }

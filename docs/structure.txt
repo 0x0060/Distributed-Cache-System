@@ -1,0 +1,14 @@
+docs/
+├── api/
+│   ├── core.md
+│   ├── distributed.md
+│   ├── metrics.md
+│   └── serialization.md
+├── guides/
+│   ├── getting-started.md
+│   ├── installation.md
+│   └── advanced-usage.md
+└── architecture/
+    ├── overview.md
+    ├── caching-policies.md
+    └── cluster-management.md
